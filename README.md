@@ -30,7 +30,7 @@ wither-sword/
     └── assets/withersword/
         ├── items/wither_sword.json          (item model definition)
         ├── models/item/wither_sword.json    (handheld sword model)
-        └── textures/item/wither_sword.png   (the 16×16 texture)
+        └── textures/item/wither_sword.png   (64×64 Demonblade-style texture)
 ```
 
 ## How it works (the short version)
